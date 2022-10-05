@@ -39,7 +39,7 @@
   <img height="150" width="150" src="https://github.com/MohitS1999/MohitS1999/blob/main/webp/right-wing.webp">
 </p>
 
-<a target="_blank"><img align="left" height="280" width="280" alt="𝙶𝙸𝙵" src="https://github.com/MohitS1999/MohitS1999/blob/main/webp/github.gif"></a>
+<a target="_blank"><img align="left" height="250" width="250" alt="𝙶𝙸𝙵" src="https://github.com/MohitS1999/MohitS1999/blob/main/webp/github.gif"></a>
 <br/>
 
 
@@ -49,9 +49,10 @@
 <br/>
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://github.com/MohitS1999/MohitS1999/blob/main/webp/kotlin.jfif"></code>
 
 
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" style="background-color:#33475b"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <br/>
@@ -65,7 +66,7 @@
 <br/>
   
   
-  <p align="center">
+ <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohitS1999&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitS1999&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
