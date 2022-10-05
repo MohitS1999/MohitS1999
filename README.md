@@ -19,11 +19,12 @@
 <br/>
 <br/>
 
+#
 
-<!-- Github Stats -->
 <p align="center">
-    <a href="https://github.com/ohitS1999"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MohitS1999&show_icons=false&hide_border=false&title_color=F4FF01&amp&icon_color=FFFF80&amp&text_color=FFFFFF&amp&bg_color=2E0655&count_private=true&include_all_commits=true"/></a>
-    <a href="https://github.com/kenhorlador"><img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitS1999&text_color=FFFFFF&bg_color=2E0655&title_color=F4FF01&langs_count=15&layout=compact&hide_border=false" /></a>
+  <img height="150" width="150" src="https://github.com/MohitS1999/MohitS1999/blob/main/webp/left-wing.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohitS1999&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/MohitS1999/MohitS1999/blob/main/webp/right-wing.webp">
 </p>
 
-<a href="https://github.com/mohits1999"><img src="https://github.com/Mrinank-Bhowmick/Mrinank-Bhowmick/blob/master/PNG/footer.png" width="100%"></a>
+<a href="https://github.com/mohits1999"><img src="https://github.com/MohitS1999/MohitS1999/blob/main/webp/footer.webp" width="100%"></a>
