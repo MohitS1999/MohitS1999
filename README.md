@@ -20,16 +20,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/MohitS1999" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Pranay202&style=flat&color=brightgreen"> •    -->
+  <img src="https://gpvc.arturio.dev/MohitS1999" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •   
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/MohitS1999?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/MohitS1999?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
-
-#
-
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=MohitS1999&column=8&margin-w=20&no-bg=true&no-frame=true&margin-h=20&theme=onedark)](https://github.com/MohitS1999)
-</a>
 
 #
 
